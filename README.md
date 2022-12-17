@@ -1,1 +1,1 @@
-# pixel_arts
+# Pixel-art
